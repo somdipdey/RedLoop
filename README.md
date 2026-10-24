@@ -134,3 +134,12 @@ independent session, so registers and progress never mix between people.
   reliable on `localhost`.
 - **No PDF** — install `reportlab` (it's in `requirements.txt`); RedLoop otherwise offers
   Markdown / HTML instead.
+
+
+## 8. Credits & citation
+
+RedLoop and the **A4SRAI (Agile 4 Secure Responsible AI)** framework are the work of
+**Dr Somdip Dey**. The framework is published in IEEE Computer:
+[Implementing AI Red Teaming to Develop Secure Responsible AI Models](https://ieeexplore.ieee.org/abstract/document/11220004).
+
+If you use RedLoop in teaching or research, please cite that article.
